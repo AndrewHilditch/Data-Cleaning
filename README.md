@@ -1,1 +1,2 @@
 # Data-Cleaning
+This is a repository of the process required to clean data obtained from Network Rail's data feeds. This repository covers schedule data as well as berth movements data. The two data sets are then combined using two intermediate data sets so that an appended version of the berth movements can be obtained. This version can track arrivals at station berths allowing for the calculation of delay.
