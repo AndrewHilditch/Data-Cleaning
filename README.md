@@ -3,4 +3,4 @@ This is a repository of the process required to clean data obtained from Network
 
 The berth data file supplied to this code should be in 24 hour format. The day in this format starts at 4:00am and continues until 4:00am the next day. This is a 24 hour day on the U.K. railway. If the data you are supplying does not cross the 4:00am boundary this requirement can be ignored.
 
-If uncompiled schedule data is provided then accuracy requirements need all the timetable entries for every day prior in the month. For example if you wish to use timetable data for the 12th of October you will need the entry from the 1st as well as all the files from then till the 12th. SO twelve different files, this is not ideal but is required to track timetable changes posted each day.
+If uncompiled schedule data is provided then accuracy requirements need all the timetable entries for every day prior in the month. For example if you wish to use timetable data for the 12th of October you will need the entry from the 1st as well as all the files from then till the 12th. So twelve different files, this is not ideal but is required to track timetable changes posted each day.
