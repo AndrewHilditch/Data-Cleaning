@@ -247,3 +247,7 @@ def Delay_calculation(Berthpickle,Timetablepickle,STANberthpickle,Areacode):
     del Df['msg_type']
     del Df['UTC']
     return Df
+<<<<<<< HEAD
+=======
+
+>>>>>>> af74623779a0b6153a4309d17c9cae74dab63f0a
